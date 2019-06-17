@@ -1,4 +1,4 @@
-# addressPlate
+# addressPicker
 vue结合weui实现的一个地区选择组件，可以自己添加地区
 
 
